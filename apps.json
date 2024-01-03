@@ -1,7 +1,7 @@
 {
   "name": "Crceck Test Source",
   "identifier": "com.crcecl.testsource",
-  
+}
 "apps": [
   {
     "name": "My App",
