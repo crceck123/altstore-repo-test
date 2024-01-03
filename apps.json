@@ -1,8 +1,5 @@
 {
-  "name": "Crceck Test Source",
-  "identifier": "com.crcecl.testsource",
-}
-"apps": [
+  "apps": [
   {
     "name": "My App",
     "bundleIdentifier": "com.myname.myapp",
