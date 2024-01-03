@@ -1,4 +1,6 @@
 {
+  "name": "Crceck Best Repo"
+  "identifier": "com.crcecktest"
   "apps": [
   {
     "name": "My App",
