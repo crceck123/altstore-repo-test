@@ -8,15 +8,15 @@
 
     {
 
-      "name": "test",
+      "name": "Enmity",
 
-      "bundleIdentifier": "com.test",
+      "bundleIdentifier": "com.hammerandchisel.discord",
 
-      "developerName": "Crceck",
+      "developerName": "Enmity",
 
-      "subtitle": "subtitle",
+      "subtitle": "Modded discord with plugins and themes!",
 
-      "localizedDescription": "localized description",
+      "localizedDescription": "Idk",
 
       "iconURL": "https://alt.terrain.pw/jellydrift/icon.png",
 
@@ -24,41 +24,7 @@
 
       "screenshotURLs": [
 
-        "https://alt.terrain.pw/jellydrift/screen0.png",
-
-        "https://alt.terrain.pw/jellydrift/screen1.png",
-
-        "https://alt.terrain.pw/jellydrift/screen2.png",
-
-        "https://alt.terrain.pw/jellydrift/screen3.png",
-
-        "https://alt.terrain.pw/jellydrift/screen4.png",
-
-        "https://alt.terrain.pw/jellydrift/screen5.png",
-
-        "https://alt.terrain.pw/jellydrift/screen6.png",
-
-        "https://alt.terrain.pw/jellydrift/screen7.png",
-
-        "https://alt.terrain.pw/jellydrift/screen8.png",
-
-        "https://alt.terrain.pw/jellydrift/screen9.png",
-
-        "https://alt.terrain.pw/jellydrift/screen10.png",
-
-        "https://alt.terrain.pw/jellydrift/screen11.png",
-
-        "https://alt.terrain.pw/jellydrift/screen12.png",
-
-        "https://alt.terrain.pw/jellydrift/screen13.png",
-
-        "https://alt.terrain.pw/jellydrift/screen14.png",
-
-        "https://alt.terrain.pw/jellydrift/screen15.png",
-
-        "https://alt.terrain.pw/jellydrift/screen16.png",
-
-        "https://alt.terrain.pw/jellydrift/screen17.png"
+        "https://test.image"
 
       ],
 
