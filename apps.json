@@ -1,7 +1,6 @@
 {
-  "name": "Crceck Best Repo",
+  "name": "Crceck",
   "identifier": "com.crcecktest",
-  "META": { "reponame": "Crceck Best Repo", "repoIcon": "https://raw.githubusercontent.com/crceck123//crceck-test-repo/main/3AF930BE-5E29-419A-A8A5-AF395F6EB97A.webp" },
   "apps": [
   {
     "name": "My App",
@@ -38,4 +37,4 @@
     ],
     "beta": false
   }
-],
+  ]
